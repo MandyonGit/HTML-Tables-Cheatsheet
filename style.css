@@ -1,0 +1,31 @@
+body {
+    min-height: 100vh;
+    background-color: rgb(255,182,193);
+    font-family: monospace;
+}
+
+h1 {
+    background-color: rgb(255,105,180);
+    border-radius: 10px;
+}
+
+h1,
+h3,
+p {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+    margin: auto;
+}
+
+table, th, td {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+thead {
+    background-color: rgb(255,105,180);
+}
